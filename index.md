@@ -5,8 +5,6 @@ title: "Ayman's Cybersecurity Portfolio"
 
 # Welcome to My Cybersecurity Portfolio
 
-# Welcome to My Cybersecurity Portfolio
-
 Hi, I'm **Ayman**, a current student at [John Jay College of Criminal Justice](https://www.jjay.cuny.edu/), pursuing a **B.S./M.S. in Computer Science and Information Security** through an **accelerated program**. I am passionate about cybersecurity and technology, with a focus on developing secure systems and solving complex problems. 
 
 This portfolio highlights my growing expertise in computer science and cybersecurity. It will include projects demonstrating programming, cryptography, and network security skills.
