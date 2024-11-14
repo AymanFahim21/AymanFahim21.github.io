@@ -5,9 +5,11 @@ title: "Ayman's Cybersecurity Portfolio"
 
 # Welcome to My Cybersecurity Portfolio
 
-Hi, I'm **Ayman**, a current student at [John Jay College of Criminal Justice](https://www.jjay.cuny.edu/), pursuing a **B.S./M.S. in Computer Science and Information Security** through an **accelerated program**. My passion for cybersecurity stems from a personal experience with identity theft that sparked my interest in safeguarding digital information. I aim to leverage my knowledge to make systems safer for everyone.
+# Welcome to My Cybersecurity Portfolio
 
-This site showcases the projects I’ve worked on as part of my academic journey and independent learning. From cryptographic implementations to penetration testing scripts, my projects highlight my growing expertise in the field of cybersecurity.
+Hi, I'm **Ayman**, a current student at [John Jay College of Criminal Justice](https://www.jjay.cuny.edu/), pursuing a **B.S./M.S. in Computer Science and Information Security** through an **accelerated program**. I am passionate about cybersecurity and technology, with a focus on developing secure systems and solving complex problems. 
+
+This portfolio highlights my growing expertise in computer science and cybersecurity. It will include projects demonstrating programming, cryptography, and network security skills.
 
 Feel free to explore, and don’t hesitate to reach out if you have any questions or collaboration ideas!
 
@@ -41,9 +43,10 @@ Feel free to explore, and don’t hesitate to reach out if you have any question
 
 ## About Me
 
-As a **Google Professional Cybersecurity Certificate** holder, I am proficient in programming languages like **Java, Python, C++, SQL, CSS/HTML, and Bash**. I’ve also gained hands-on experience through roles such as **CUNY Internship Program Tech Support Intern for NYCDOE**, where I worked on website maintenance, technical support, and data tracking.
+As a **Google Professional Cybersecurity Certificate** holder and a student of computer science, I am proficient in programming languages like **Java, Python, C++, SQL, CSS/HTML, and Bash**. My experience includes roles such as **CUNY Internship Program Tech Support Intern for NYCDOE**, where I contributed to website maintenance, technical support, and data tracking.
 
-When I’m not coding, I enjoy learning about emerging trends in cybersecurity, contributing to open-source projects, and teaching others about the importance of digital safety.
+I enjoy learning about emerging trends in cybersecurity, contributing to open-source projects, and honing my skills through academic and personal projects.
+
 
 ---
 
