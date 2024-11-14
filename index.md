@@ -1,123 +1,65 @@
 ---
 layout: default
+title: "Ayman's Cybersecurity Portfolio"
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Welcome to My Cybersecurity Portfolio
 
-[Link to another page](./another-page.html).
+Hi, I'm **Ayman**, a current student at [John Jay College of Criminal Justice](https://www.jjay.cuny.edu/), pursuing a **B.S./M.S. in Computer Science and Information Security** through an **accelerated program**. My passion for cybersecurity stems from a personal experience with identity theft that sparked my interest in safeguarding digital information. I aim to leverage my knowledge to make systems safer for everyone.
 
-There should be whitespace between paragraphs.
+This site showcases the projects I’ve worked on as part of my academic journey and independent learning. From cryptographic implementations to penetration testing scripts, my projects highlight my growing expertise in the field of cybersecurity.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Feel free to explore, and don’t hesitate to reach out if you have any questions or collaboration ideas!
 
-# Header 1
+---
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Projects
 
-## Header 2
+### **1. Project #1**
+- **Description:** 
+- **Highlights:**
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+---
 
-### Header 3
+### **2. Project #2**
+- **Description:** 
+- **Highlights:**
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+---
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### **3. Project #3**
+- **Description:** 
+- **Highlights:**
 
-#### Header 4
+---
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### **4. Project #4**
+- **Description:** 
+- **Highlights:**
 
-##### Header 5
+---
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## About Me
 
-###### Header 6
+As a **Google Professional Cybersecurity Certificate** holder, I am proficient in programming languages like **Java, Python, C++, SQL, CSS/HTML, and Bash**. I’ve also gained hands-on experience through roles such as **CUNY Internship Program Tech Support Intern for NYCDOE**, where I worked on website maintenance, technical support, and data tracking.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+When I’m not coding, I enjoy learning about emerging trends in cybersecurity, contributing to open-source projects, and teaching others about the importance of digital safety.
 
-### There's a horizontal rule below this.
+---
 
-* * *
+## Skills
 
-### Here is an unordered list:
+- **Programming Languages:** Java, Python, C++, HTML/CSS, SQL, Bash
+- **Cybersecurity Tools:** Wireshark, Nmap, Burp Suite, Metasploit
+- **Concepts:** Cryptography, Network Security, Ethical Hacking, Vulnerability Management
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+---
 
-### And an ordered list:
+## Get in Touch
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
+- [LinkedIn](https://www.linkedin.com/in/ayman-fahim-86659523b/) 
+- [GitHub](https://github.com/AymanFahim21) 
+---
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
